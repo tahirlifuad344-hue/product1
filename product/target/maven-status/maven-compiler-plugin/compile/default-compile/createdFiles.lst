@@ -1,0 +1,11 @@
+com\example\product\repository\mehsulRepository.class
+com\example\product\controller\mehsulController.class
+com\example\product\service\MehsulService.class
+com\example\product\dto\response.class
+com\example\product\entity\mehsul.class
+com\example\product\service\impl\MehsulServiceImpl.class
+com\example\product\entity\category.class
+com\example\product\ProductApplication.class
+com\example\product\dto\request.class
+com\example\product\repository\categoryRepository.class
+com\example\product\ServletInitializer.class
